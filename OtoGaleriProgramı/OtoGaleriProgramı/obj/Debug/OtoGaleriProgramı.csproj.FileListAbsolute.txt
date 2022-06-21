@@ -1,0 +1,11 @@
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\bin\Debug\OtoGaleriProgramı.exe.config
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\bin\Debug\OtoGaleriProgramı.exe
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\bin\Debug\OtoGaleriProgramı.pdb
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\obj\Debug\OtoGaleriProgramı.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\obj\Debug\OtoGaleriProgramı.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\obj\Debug\OtoGaleriProgramı.Form1.resources
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\obj\Debug\OtoGaleriProgramı.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\obj\Debug\OtoGaleriProgramı.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\obj\Debug\OtoGaleriProgramı.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\obj\Debug\OtoGaleriProgramı.exe
+C:\Users\MONSTER\source\repos\OtoGaleriProgramı\OtoGaleriProgramı\obj\Debug\OtoGaleriProgramı.pdb

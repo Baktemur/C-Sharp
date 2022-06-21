@@ -1,0 +1,12 @@
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\bin\Debug\Pizza Otomasyonu.exe.config
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\bin\Debug\Pizza Otomasyonu.exe
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\bin\Debug\Pizza Otomasyonu.pdb
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\obj\Debug\Pizza Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\obj\Debug\Pizza Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\obj\Debug\Pizza_Otomasyonu.Form1.resources
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\obj\Debug\Pizza_Otomasyonu.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\obj\Debug\Pizza Otomasyonu.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\obj\Debug\Pizza Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\obj\Debug\Pizza Otomasyonu.exe
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\obj\Debug\Pizza Otomasyonu.pdb
+C:\Users\MONSTER\source\repos\Pizza Otomasyonu\Pizza Otomasyonu\bin\Debug\yemek.accdb

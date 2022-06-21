@@ -1,0 +1,12 @@
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\bin\Debug\OtomasyonProje.exe.config
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\bin\Debug\OtomasyonProje.exe
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\bin\Debug\OtomasyonProje.pdb
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\obj\Debug\OtomasyonProje.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\obj\Debug\OtomasyonProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\obj\Debug\OtomasyonProje.Form1.resources
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\obj\Debug\OtomasyonProje.Frm2.resources
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\obj\Debug\OtomasyonProje.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\obj\Debug\OtomasyonProje.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\obj\Debug\OtomasyonProje.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\obj\Debug\OtomasyonProje.exe
+C:\Users\MONSTER\source\repos\OtomasyonProje\OtomasyonProje\obj\Debug\OtomasyonProje.pdb
